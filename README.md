@@ -1,2 +1,2 @@
 # go-playground
-Test repo for the Dart programming language. 
+Test repo for the Go programming language. 
